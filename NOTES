@@ -1,0 +1,26 @@
+The TestConstructor file shows how it will be displayed for output. The biggest thing I need to finish my portion is the 
+variables used to obtain the information. In order to call the proper information, I will need the NAME OF PITCHER and the YEAR
+they want the stats on. I do not need information about the team, as it is already included in the pitcher profile. Let me know if you need
+anything.
+
+Information that needs to be passed from fx to constructor:
+
+1. Name from Scanner
+
+2. Pitchers Name --> to construct myPitcher instance
+
+3. Pitcher Year --> determine which method to call/ how to create array
+
+Here is the complete list of information that should be on the front end -->
+
+1. Enter users name from scanner
+
+2. Select Team, which should then unlock the pitcher options. Cant select pitcher before team.
+
+3. Select Pitcher, unlocks year. 
+
+4. Year, unlocks submit
+
+5. A way to restart to edit selections before submission
+
+6. A way to exit
