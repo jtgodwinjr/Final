@@ -28,7 +28,7 @@ public class TestConstructor {
 				
 				// display Team, Name, and Age
 					//Team
-				System.out.println("Team:\t" + myPitcher.teamName() + "\n");
+				System.out.println("Team:\t" + myPitcher.team + "\n");
 					// Pitchers name
 				System.out.print("Name:\t" + myPitcher.pitcherName() + "\t\t");
 					//display age
