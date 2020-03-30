@@ -1,7 +1,8 @@
 public class TestConstructor {
 	public static void main(String[] args) {
 		GM myPitcher= new GM();
-		
+	
+		String name= "Margaret";
 	
 	int year = 2018;
 	
@@ -9,13 +10,17 @@ public class TestConstructor {
 	
 	
 	// determine which years stats to use for the pitcher
-	if (year == 2018)
+	switch (year) {
+	case 2018:	
 		game= myPitcher.gameStats18();
-	else
+	default:
 		game= myPitcher.gameStats19();
-	 
+	}
 	
-		
+	// display screen
+	// first customized portion from scanner
+	System.out.println("Hello " + name + ", here are the stats for " + myPitcher.pitcherName()
+			+ "'s " + year + " season.\n");
 		// display personal stats
 		
 				// create new array to use for stat display
