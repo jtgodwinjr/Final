@@ -40,3 +40,18 @@ TEAMS AND PITCHERS:
   1. Masahiro Tanaka
   2. J.A. Happ
   3. James Paxton
+
+
+Requirements Already Met/Planned:
+1. Override
+2. Inheritance
+3. Switch Statement
+4. Println
+5. Static variable + Methods
+6. conditional operator --> will be used to determine which object to call after I have variables
+7. Variables
+8. Scanner --> used for input
+9. Arrays
+10. Constructor
+11. Super
+
