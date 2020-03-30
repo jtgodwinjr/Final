@@ -24,7 +24,7 @@ public class GM extends Rockies	{
 	@Override
 	public String[] gameStats19() {
 		// TODO Auto-generated method stub
-		String[] gStats19= {"2019", "1", "28", "174.0", "35", "96", "92", "175", "4.76"};
+		String[] gStats19= {"2019", "1", "28", "174.0", "174", "35", "96", "92", "175", "4.76"};
 		return gStats19;
 	}
 		
