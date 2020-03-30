@@ -1,5 +1,7 @@
 public class GM extends Rockies	{
 
+	String team= super.teamName();
+	
 	@Override
 	public String pitcherName() {
 		// TODO Auto-generated method stub
